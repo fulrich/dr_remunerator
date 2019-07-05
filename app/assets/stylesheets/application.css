@@ -12,6 +12,5 @@
  *
  *= require_tree .
  *= require_self
- *= require css/all.min.css
  *= require css/sb-admin-2.css
  */

@@ -12,4 +12,6 @@
  *
  *= require_tree .
  *= require_self
+ *= require vendor/fontawesome-free/css/all.min.css
+ *= require css/sb-admin-2.css
  */

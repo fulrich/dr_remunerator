@@ -6,6 +6,6 @@ module Secured
   end
 
   def logged_in?
-    redirect_to '/' unless session[:userinfo].present?
+    redirect_to '/auth/auth0' unless session[:userinfo].present?
   end
 end

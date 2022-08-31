@@ -24,7 +24,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 # Auth0
-gem 'omniauth', '~> 1.6.1'
+gem 'omniauth', '~> 1.9.2'
 gem 'omniauth-auth0', '~> 2.0.0'
 
 # Use Redis adapter to run Action Cable in production
